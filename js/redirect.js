@@ -1,0 +1,1 @@
+!function(){const o=new URLSearchParams(window.location.search);var e=o.get("qr")||o.get("r");e&&(12==e.length||18==e.length)&&(window.location.href="https://qrcodegeneratorhub.com/i/"+e)}();
